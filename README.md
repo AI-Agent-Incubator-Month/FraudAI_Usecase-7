@@ -55,6 +55,8 @@ This project was developed by a dedicated team of contributors:
 
 ![alt text](<image2.png>)
 
+![alt text](<image4.png>)
+
 ## Implementation
 
 
