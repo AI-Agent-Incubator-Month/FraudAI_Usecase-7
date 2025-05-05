@@ -45,8 +45,9 @@ This project was developed by a dedicated team of contributors:
 - **Shaksham Khandelwal**: Worked on alert generation, report creation, and ensuring clear, user-friendly output of fraud detection results.
 
 ## Images
+
+![alt text](flowchart.png)
 ## Flowchart
-![alt text](flowchart.png)    
   
 ## Screenshots
 ![alt text](image1.png)    
