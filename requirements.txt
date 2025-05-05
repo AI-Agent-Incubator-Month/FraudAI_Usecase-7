@@ -1,0 +1,8 @@
+langchain
+pandas
+google-generativeai
+python-dotenv
+pandas
+scikit-learn
+streamlit
+langchain_community
