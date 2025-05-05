@@ -1,6 +1,6 @@
 # FraudAI_Usecase-7
 ## This is demo of our project
-[watch demo video](images/FraudAI_Usecase-7.mp4)
+![watch demo video](https://github.com/user-attachments/assets/71b8b076-0f7a-4d6b-af82-f7e1d0b5af33)
 
 
 ## Overview
