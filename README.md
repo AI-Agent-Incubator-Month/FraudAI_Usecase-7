@@ -47,16 +47,16 @@ This project was developed by a dedicated team of contributors:
 
 ## Images
 ## Flowchart
-![alt text](flowchart.png)
+![alt text](images/flowchart.png)
   
 ## Screenshots
-![alt text](image1.png)    
+![alt text](images/image1.png)    
 
-![alt text](image3.jpg)    
+![alt text](images/image3.jpg)    
 
-![alt text](<image2.png>)
+![alt text](images/<image2.png>)
 
-![alt text](<image4.png>)
+![alt text](<images/image4.png>)
 
 ## Implementation
 
