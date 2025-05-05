@@ -80,4 +80,5 @@ All AI calls are routed through Azure OpenAI, using a gpt-4o. Tools and response
 - Add real-time transaction monitoring and anomaly detection.
 - Improve the UI with user authentication and enhanced reporting.
 
--We have shared a sample .env file.
+-We have shared a sample .env file and dataset to experiment and verify.
+
