@@ -43,6 +43,7 @@ This project was developed by a dedicated team of contributors:
 - **Momin Mariyam**: Managed the processing flow, coordinating how transactions are evaluated and results are structured.
 - **Sakshi Kothawale**: Developed the interactive web interface, enabling users to upload data, view predictions, and download reports.
 - **Shaksham Khandelwal**: Worked on alert generation, report creation, and ensuring clear, user-friendly output of fraud detection results.
+- **Wasim Ahmed**: Mentor
 
 ## Images
 ## Flowchart
