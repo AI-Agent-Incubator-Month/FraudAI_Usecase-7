@@ -82,3 +82,15 @@ All AI calls are routed through Azure OpenAI, using a gpt-4o. Tools and response
 
 -We have shared a sample .env file and dataset to experiment and verify.
 
+## 🛠️ Installation & Setup
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AI-Agent-Incubator-Month/FraudAI_Usecase-7.git
+   cd FraudAI_Usecase-7
+
+2. pip install -r requirements.txt
+
+3. streamlit run streamlit_app.py
+
